@@ -7,4 +7,6 @@ It allows a business owner to view and manage the departments, roles, and employ
 ## Application Demo 
 The following video shows an example of the application being used from the command line:
 
+File available here: (assets/12-SQL-Homework-EmployeeTracker.mp4). Please download it to view.
+
 [![A video thumbnail shows the command-line employee tracker application.](./assets/12-sql-homework-video-thumbnail.png)](./assets/12-SQL-Homework-EmployeeTracker.mp4)
